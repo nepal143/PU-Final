@@ -27,7 +27,8 @@ public class Score : MonoBehaviour
 
     }
 
-    // Update is called once per frame
+    // U
+    // date is called once per frame
     void Update()
     {
 
@@ -41,7 +42,7 @@ public class Score : MonoBehaviour
             
 
             if (score % 100 == 0)
-            {
+            { 
                 
           
                 Time.timeScale += 0.05f;
