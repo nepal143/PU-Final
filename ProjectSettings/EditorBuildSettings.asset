@@ -6,14 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Start.unity
-    guid: 66b8e0d49d006dd4cb32d8b0fa444728
+    path: Assets/Scenes/Explore.unity
+    guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Main.unity
-    guid: 678d462d33ebdd7419400a9476bf6759
+    path: Assets/Scenes/Games.unity
+    guid: 4f0c3b85bacd6284fb2b6416b0f3c97e
   - enabled: 1
-    path: Assets/Scenes/Shop.unity
-    guid: c81bf86fb95a26446ae42f499fcbc766
+    path: Assets/Scenes/FlyBird.unity
+    guid: ef9bd5f650229d147ac57a1ef7f2a3c1
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 5ee6491ff6503e345b2fda4308404d13
   m_configObjects:
     AddressableAssetSettings: {fileID: 0}
     com.unity.addressableassets: {fileID: 11400000, guid: b326c184dbebf6b4e8e5be689c39d470,
