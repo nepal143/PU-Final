@@ -711,8 +711,8 @@ MonoBehaviour:
   productPrefabs:
   - {fileID: 3087137162324714288, guid: 5db3f6a12377399488947d67e7c9f94e, type: 3}
   - {fileID: 4788535035431120092, guid: 695e1773c4adc8c44b83097eed0613e9, type: 3}
-  - {fileID: 3087137162324714288, guid: 5db3f6a12377399488947d67e7c9f94e, type: 3}
-  - {fileID: 3087137162324714288, guid: 5db3f6a12377399488947d67e7c9f94e, type: 3}
+  - {fileID: 6853090130934354045, guid: 02444483ff868444d86fd8dc6f9c31c6, type: 3}
+  - {fileID: 5563379430625982700, guid: 616f682cab1485b4d869d55af35c9c06, type: 3}
   previousPoint: {fileID: 1628585373}
   mainPoint: {fileID: 294555794}
   nextPoint: {fileID: 1733052020}
